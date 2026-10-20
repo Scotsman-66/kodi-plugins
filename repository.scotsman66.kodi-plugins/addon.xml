@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.scotsman66.kodi-plugins" name="My Kodi Plugins" version="1.0.0" provider-name="Scotsman-66">
+  <description>Self-hosted Kodi add-ons</description>
+  <disclaimer>Self-hosted</disclaimer>
+  <platform>all</platform>
+  <addon id="script.module.six" />
+  <addon id="script.module.dateutil" />
+  <addon id="script.module.trakt" />
+  <addon id="script.trakt" />
+</addon>   
